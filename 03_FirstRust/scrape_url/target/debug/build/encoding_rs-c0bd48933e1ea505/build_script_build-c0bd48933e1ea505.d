@@ -1,0 +1,5 @@
+/home/mywsl/rust_learning/rust-firstlesson/03_FirstRust/scrape_url/target/debug/build/encoding_rs-c0bd48933e1ea505/build_script_build-c0bd48933e1ea505: /home/mywsl/.cargo/registry/src/github.com-1ecc6299db9ec823/encoding_rs-0.8.31/build.rs
+
+/home/mywsl/rust_learning/rust-firstlesson/03_FirstRust/scrape_url/target/debug/build/encoding_rs-c0bd48933e1ea505/build_script_build-c0bd48933e1ea505.d: /home/mywsl/.cargo/registry/src/github.com-1ecc6299db9ec823/encoding_rs-0.8.31/build.rs
+
+/home/mywsl/.cargo/registry/src/github.com-1ecc6299db9ec823/encoding_rs-0.8.31/build.rs:
